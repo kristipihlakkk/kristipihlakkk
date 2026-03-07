@@ -22,3 +22,10 @@
 ![line](https://github.com/Ahtisham-1214/Ahtisham-1214/raw/main/assets/line.gif)
 
 ![footer](https://github.com/Ahtisham-1214/Ahtisham-1214/raw/main/assets/footer.svg)
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kristipihlakkk/kristipihlakkk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kristipihlakkk/kristipihlakkk/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kristipihlakkk/kristipihlakkk/output/github-contribution-grid-snake.svg" />
+</picture>
